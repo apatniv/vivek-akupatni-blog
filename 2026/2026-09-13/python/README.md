@@ -34,4 +34,4 @@ n=64000 taken=34462.33ms
 | 32000 | 8023.70         | 3.86   |
 | 64000 | 34462.33        | 4.30   |
 
-> Doubling the size increases the time taken by roughly 4 times. Suggesting, that actual complexity of the operation(s) to be $O(n^2)$ rather than 0(n)
+> Doubling the size increases the time taken by roughly 4 times. Suggesting, that actual complexity of the operation(s) to be $O(n^2)$ rather than 0(n).
