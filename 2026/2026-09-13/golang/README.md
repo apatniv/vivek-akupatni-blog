@@ -2,6 +2,11 @@
 
 
 
+
+## Source of the codebase
+Source of the codebase: [Daniel Lemire's blog on Python sets and dictionaries can have quadratic-time performance](https://lemire.me/blog/2026/09/03/python-sets-and-dictionaries-can-have-quadratic-time-performance)
+
+
 ## Results
 
 ```bash
